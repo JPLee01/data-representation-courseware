@@ -1,0 +1,32 @@
+<?xml version=”1.0” encoding=”UTF-8”?>
+
+<library>
+	<catalogue name="Technical Books">
+		<book>
+			<ISBN-10>1491949775</ISBN-10>
+			<ISBN-13>9781491949771</ISBN-13>
+			<title>Thinking with Data: How to Turn Information into Insights</title>
+			<author>Max Shron</author>
+		</book>
+		<book>
+			<ISBN-10>0198518897</ISBN-10>
+			<ISBN-13>99780198518891</ISBN-13>
+			<title>Data Analysis: A Bayesian Tutorial</title>
+			<author>D. S. Sivia</author>
+		</book>
+	</catalogue>
+	<catalogue name= "Cookery Books">
+		<book>
+			<ISBN-10>1439117616</ISBN-10>
+			<ISBN-13>9781439117613</ISBN-13>
+			<title>Cookin' with Coolio</title>
+			<author>Coolio </author>
+		</book>
+		<book>
+			<ISBN-10>0718187725</ISBN-10>
+			<ISBN-13>9780718187729</ISBN-13>
+			<title>5 Ingredients: Quick and Easy Food</title>
+			<author>Jamie Oliver</author>
+		</book>	
+	</catalogue>
+</library>
